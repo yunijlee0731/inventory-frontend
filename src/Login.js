@@ -1,11 +1,11 @@
 import React from 'react';
 import Header from './components/Header';
-import Content from './components/Content';
-import Sidebar from './components/Sidebar';
+// import Content from './components/Content';
+// import Sidebar from './components/Sidebar';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
+// import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
 
